@@ -1,0 +1,13 @@
+body{
+  background: #02010a;
+}
+@media (max-width: 899px) {
+  .contenido{
+    width: 100%;
+  }
+}
+@media (min-width: 900px) {
+  .contenido{
+    width: 900px;
+  }
+}
